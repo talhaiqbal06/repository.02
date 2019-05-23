@@ -1,7 +1,7 @@
 # WebGoat: A deliberately insecure Web Application
 
 [![Build Status](https://travis-ci.org/cgravelle/WebGoat-7.1.svg?branch=master)](https://travis-ci.org/cgravelle/WebGoat-7.1)
-[![Coverage Status](https://coveralls.io/repos/WebGoat/WebGoat/badge.svg?branch=master&service=github)](https://coveralls.io/github/WebGoat/WebGoat?branch=master)
+
 [![Codacy Badge](https://api.codacy.com/project/badge/b69ee3a86e3b4afcaf993f210fccfb1d)](https://www.codacy.com/app/dm/WebGoat)
 [![OWASP Labs](https://img.shields.io/badge/owasp-labs-orange.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects)
 
