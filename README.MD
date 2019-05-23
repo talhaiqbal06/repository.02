@@ -1,6 +1,7 @@
 # WebGoat: A deliberately insecure Web Application
 
 [![Build Status](https://travis-ci.org/cgravelle/WebGoat-7.1.svg?branch=master)](https://travis-ci.org/cgravelle/WebGoat-7.1)
+[![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/cgravelle/WebGoat-7.1/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/cgravelle/WebGoat-7.1/branches/master)
 [![OWASP Labs](https://img.shields.io/badge/owasp-labs-orange.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects)
 
 # Important Information
